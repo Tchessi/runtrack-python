@@ -1,0 +1,4 @@
+Choisissez un IDE, préférablement Visual Studio Code, et configurez le afin de pouvoir y
+écrire du python et accéder à un terminal.
+Assurez-vous que votre environnement est correctement configuré en y exécutant le
+code des jobs 02 et 03.
