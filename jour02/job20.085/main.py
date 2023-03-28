@@ -98,3 +98,19 @@ def play_game():
             col = ai.think(board, ai_player)
         
         # Le pion est placé sur le plateau
+        row = play_move(board, col, current_player)
+        
+        # Vérifie si le joueur a gagné
+        if check_win(board, row, col, current_player):
+            print(f"{current_player} a gagné !")
+            break
+        
+        # Vérifie si le plateau de jeu est plein
+        if is_board_full(board):
+            print("Match nul !")
+            break
+        
+        # Passe la main au joueur suivant
+        current_player = human_player if current_player == ai_player else ai_player
+
+play_game()
