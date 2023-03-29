@@ -1,0 +1,4 @@
+Systèmes hybrides
+Les numérations alphabétiques, quant à elles, utilisent des chiffres pour les différents multiples des puissances de β. Ainsi, la numération hébraïque, par exemple, utilise des chiffres pour les unités (1, 2, 3..., 9), dizaines (10, 20, 30..., 90) et centaines (100, 200, 300..., 900). La numération alphabétique grecque utilise des chiffres pour les mêmes valeurs, et poursuit avec les milliers (1000, 2000, 3000..., 9000)[réf. souhaitée].
+
+Les systèmes hybrides nécessitent, pour une base β, des chiffres allant de 1 à β-1, plus des chiffres pour représenter les puissances successives β. Ces systèmes sont multiplicatifs et additifs : chaque chiffre utilisé représentant une puissances de β est, au besoin, précédé d'un chiffre représentant une unité (à partir de 2). La valeur du nombre est alors égal à la somme des nombres et produits de nombres en présence.
