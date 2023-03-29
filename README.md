@@ -9,6 +9,10 @@ Ce projet a été réalisé dans le cadre de ma formation de "Concepteur dévelo
 - Installer un environnement de developpement python
 - Maîtriser les bases de python
 - Implémenter un algorithme
+- Manipuler des fichier en python
+- Maîtriser les Regex en python
+- Installer et utiliser la librairie graphique Matplotlib
+- Maîtriser l’architecture POO en Python
 
 
 ### Auteur
