@@ -14,7 +14,9 @@ Ce projet a été réalisé dans le cadre de ma formation de "Concepteur dévelo
 - Installer et utiliser la librairie graphique Matplotlib
 - Maîtriser l’architecture POO en Python
 - Comprendre et appliquer la récursivité
-- Aller plus loin en python
+- Aller plus loin en python● Découverte de la bibliothèque pygame
+- Mise en place d’une architecture POO en python
+- Améliorer son niveau algorithmique
 `
 
 ### Auteur
